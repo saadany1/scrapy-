@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Scrapy
+=======
+
+Scrapy is a visual web scraper. You load any page in a live preview, click elements to capture CSS selectors, then run a scrape job that extracts structured data into a table you can export as CSV or JSON.
+>>>>>>> ff13189123be1b48c7e3b373b3d3d3bc7751c241
 
 Before I started this project, I needed a web scraper to finish another one — a furniture-based platform where I was doing market research. [Scrapling](https://github.com/D4Vinci/Scrapling) had just come out about a week earlier, so I cooked this up quickly on top of that ecosystem to get the job done. This repo is the visual UI that grew out of that work.
 
@@ -204,3 +209,7 @@ The link scanner needs repeated URL patterns. Try a category or listing page, or
 ### Selectors match 0 elements
 
 Dynamic content may differ between the proxy preview and the Python fetcher. Use **Test Selectors** to verify, and try pages that work well with StealthyFetcher.
+<<<<<<< HEAD
+=======
+
+>>>>>>> ff13189123be1b48c7e3b373b3d3d3bc7751c241
